@@ -5,17 +5,18 @@
 // 2, 4 -> 16
 
 
-Console.Clear();
-Console.Write("Введите число A: ");
-int N = int.Parse(Console.ReadLine());
+// Console.Clear();
+// Console.Write("Введите число A: ");
+// int N = int.Parse(Console.ReadLine());
 
-Console.Write("Введите число B: ");
-int C = int.Parse(Console.ReadLine());
+// Console.Write("Введите число B: ");
+// int C = int.Parse(Console.ReadLine());
 
-int number = N;
+// int number = N;
 
-for (int i = 1; i < C; i++)
-{
-number = number * N;
-}
-Console.WriteLine("A в степени B равно: " + number);
+// for (int i = 1; i < C; i++)
+// {
+// number = number * N;
+// }
+// Console.WriteLine("A в степени B равно: " + number);
+// // 
